@@ -4,8 +4,8 @@
   "description": "a blockchain generator",
   "main": "main.js",
   "dependencies": {
-    "keccak": "^1.4.0",
-    "readline-sync": "^1.4.7"
+    "keccak": "^3.0.1",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
   "scripts": {
